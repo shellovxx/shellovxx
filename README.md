@@ -1,9 +1,5 @@
 # shellovxx
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Информационная+безопасность+%7C+CTF;Web+%7C+Reverse+Engineering+%7C+Forensics;Команда+Xorg-worship" alt="Typing SVG" />
-</p>
-
 Занимаюсь информационной безопасностью и CTF: web, реверс-инжиниринг, анализ защищённости. Играю за команду Xorg-worship.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@shellovx-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/shellovx)
